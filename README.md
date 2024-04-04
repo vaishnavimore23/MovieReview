@@ -1,6 +1,6 @@
 # Java-React Application
 
-This is a sample Java-React application that demonstrates how to integrate a Java backend with a React frontend.
+This is a sample Java-React application that demonstrates how to integrate a Java backend with a React frontend.Data base here used is - MongoDB
 
 ## Prerequisites
 
